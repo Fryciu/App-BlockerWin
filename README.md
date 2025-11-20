@@ -124,7 +124,7 @@ pyinstaller --onefile --console --name "AppBlocker" --icon=shield.ico --add-data
 
 ## Security Bypass Reporting
 
-### If you bypass the security email me at
+### If you bypass the security of this app you can contact me via email given at [Contact](#contact)
 
 
 ##  <h2 id="faq">❓ FAQ</h2>
