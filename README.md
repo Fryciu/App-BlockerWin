@@ -3,7 +3,7 @@
 A powerful Windows application blocker with advanced security features that allows you to block specific applications from running on your system.
 
 ## 📋 Table of Contents
-- [Features](#✨-features)
+- [Features](#features)
 - [System Requirements](#system-requirements)
 - [Installation](#installation)
 - [Quick Start](#quick-start)
@@ -14,7 +14,7 @@ A powerful Windows application blocker with advanced security features that allo
 - [FAQ](#faq)
 - [Legal Disclaimer](#legal-disclaimer)
 
-## ✨ Features
+##<h2 id="features">✨ Features</h2>
 
 ### 🔒 Security
 - **Password Protection** - All critical operations require administrator password
