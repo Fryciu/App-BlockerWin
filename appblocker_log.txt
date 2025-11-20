@@ -1,0 +1,130 @@
+[2025-11-20 13:21:41] Usługa AppBlocker została uruchomiona
+[2025-11-20 13:21:42] Zablokowano 5 aplikacji
+[2025-11-20 13:21:45] Usługa zatrzymana przez użytkownika
+[2025-11-20 13:32:47] ✅ Załadowano konfigurację: 1 aplikacji
+[2025-11-20 13:41:21] ✅ Załadowano konfigurację: 1 aplikacji
+[2025-11-20 13:41:21] ==================================================
+[2025-11-20 13:41:21] 🛡️  USŁUGA APPBLOKER URUCHOMIONA
+[2025-11-20 13:41:21] ==================================================
+[2025-11-20 13:41:21] 📁 Katalog konfiguracji: c:\Users\pagaf\Pulpit\Projekty\Programowanie\App_blockerv3
+[2025-11-20 13:41:21] 🔍 Liczba blokowanych aplikacji: 1
+[2025-11-20 13:41:21] 🚫 Blokowane aplikacje: ssss
+[2025-11-20 13:41:21] ✅ Zamknięto ssss (PID: 820)
+[2025-11-20 13:41:21] 🚫 Zablokowano 1 aplikacji
+[2025-11-20 13:41:28] ✅ Zamknięto ssss (PID: 5104)
+[2025-11-20 13:41:28] 🚫 Zablokowano 1 aplikacji
+[2025-11-20 13:44:38] 🔍 Monitoring aktywny - cykl 60
+[2025-11-20 13:44:38] ✅ Załadowano konfigurację: 1 aplikacji
+[2025-11-20 13:47:59] 🔍 Monitoring aktywny - cykl 120
+[2025-11-20 13:47:59] ✅ Załadowano konfigurację: 1 aplikacji
+[2025-11-20 13:51:19] 🔍 Monitoring aktywny - cykl 180
+[2025-11-20 13:51:19] ✅ Załadowano konfigurację: 1 aplikacji
+[2025-11-20 13:54:40] 🔍 Monitoring aktywny - cykl 240
+[2025-11-20 13:54:40] ✅ Załadowano konfigurację: 1 aplikacji
+[2025-11-20 13:58:00] 🔍 Monitoring aktywny - cykl 300
+[2025-11-20 13:58:00] ✅ Załadowano konfigurację: 1 aplikacji
+[2025-11-20 14:01:25] 🔍 Monitoring aktywny - cykl 360
+[2025-11-20 14:01:25] ✅ Załadowano konfigurację: 1 aplikacji
+[2025-11-20 15:54:56] 💾 Zapisano konfigurację
+[2025-11-20 15:54:56] 📝 Utworzono nową konfigurację
+[2025-11-20 16:06:33] ✅ Załadowano konfigurację: 0 aplikacji
+[2025-11-20 16:14:06] ✅ Załadowano konfigurację: 0 aplikacji
+[2025-11-20 16:22:16] 💾 Zapisano konfigurację
+[2025-11-20 16:23:11] 🔧 Usługa zainstalowana przez administratora
+[2025-11-20 16:23:12] ✅ Załadowano konfigurację: 1 aplikacji
+[2025-11-20 16:23:12] ==================================================
+[2025-11-20 16:23:12] 🛡️  USŁUGA APPBLOKER URUCHOMIONA
+[2025-11-20 16:23:12] ==================================================
+[2025-11-20 16:23:12] 📁 Katalog konfiguracji: c:\Users\pagaf\Pulpit\Projekty\Programowanie\App_blockerv3
+[2025-11-20 16:23:12] 🔍 Liczba blokowanych aplikacji: 1
+[2025-11-20 16:23:12] 🚫 Blokowane aplikacje: ssss
+[2025-11-20 16:23:12] ✅ Zamknięto ssss (PID: 15196)
+[2025-11-20 16:23:12] ✅ Zamknięto ssss (PID: 16972)
+[2025-11-20 16:23:12] ✅ Zamknięto ssss (PID: 17484)
+[2025-11-20 16:23:12] ✅ Zamknięto ssss (PID: 17704)
+[2025-11-20 16:23:12] 🚫 Zablokowano 4 aplikacji
+[2025-11-20 16:23:28] ✅ Zamknięto ssss (PID: 5988)
+[2025-11-20 16:23:28] ✅ Zamknięto ssss (PID: 7500)
+[2025-11-20 16:23:28] ✅ Zamknięto ssss (PID: 17284)
+[2025-11-20 16:23:28] 🚫 Zablokowano 3 aplikacji
+[2025-11-20 16:26:17] 🔍 Monitoring aktywny - cykl 60
+[2025-11-20 16:26:17] ✅ Załadowano konfigurację: 1 aplikacji
+[2025-11-20 16:29:24] 🔍 Monitoring aktywny - cykl 120
+[2025-11-20 16:29:24] ✅ Załadowano konfigurację: 1 aplikacji
+[2025-11-20 16:32:32] 🔍 Monitoring aktywny - cykl 180
+[2025-11-20 16:32:32] ✅ Załadowano konfigurację: 1 aplikacji
+[2025-11-20 16:35:40] 🔍 Monitoring aktywny - cykl 240
+[2025-11-20 16:35:40] ✅ Załadowano konfigurację: 1 aplikacji
+[2025-11-20 16:38:47] 🔍 Monitoring aktywny - cykl 300
+[2025-11-20 16:38:47] ✅ Załadowano konfigurację: 1 aplikacji
+[2025-11-20 16:41:54] 🔍 Monitoring aktywny - cykl 360
+[2025-11-20 16:41:54] ✅ Załadowano konfigurację: 1 aplikacji
+[2025-11-20 16:45:01] 🔍 Monitoring aktywny - cykl 420
+[2025-11-20 16:45:01] ✅ Załadowano konfigurację: 1 aplikacji
+[2025-11-20 16:48:08] 🔍 Monitoring aktywny - cykl 480
+[2025-11-20 16:48:08] ✅ Załadowano konfigurację: 1 aplikacji
+[2025-11-20 16:51:16] 🔍 Monitoring aktywny - cykl 540
+[2025-11-20 16:51:16] ✅ Załadowano konfigurację: 1 aplikacji
+[2025-11-20 16:54:23] 🔍 Monitoring aktywny - cykl 600
+[2025-11-20 16:54:23] ✅ Załadowano konfigurację: 1 aplikacji
+[2025-11-20 16:57:31] 🔍 Monitoring aktywny - cykl 660
+[2025-11-20 16:57:31] ✅ Załadowano konfigurację: 1 aplikacji
+[2025-11-20 17:00:38] 🔍 Monitoring aktywny - cykl 720
+[2025-11-20 17:00:38] ✅ Załadowano konfigurację: 1 aplikacji
+[2025-11-20 17:03:45] 🔍 Monitoring aktywny - cykl 780
+[2025-11-20 17:03:45] ✅ Załadowano konfigurację: 1 aplikacji
+[2025-11-20 17:06:53] 🔍 Monitoring aktywny - cykl 840
+[2025-11-20 17:06:53] ✅ Załadowano konfigurację: 1 aplikacji
+[2025-11-20 17:10:01] 🔍 Monitoring aktywny - cykl 900
+[2025-11-20 17:10:01] ✅ Załadowano konfigurację: 1 aplikacji
+[2025-11-20 17:13:08] 🔍 Monitoring aktywny - cykl 960
+[2025-11-20 17:13:08] ✅ Załadowano konfigurację: 1 aplikacji
+[2025-11-20 17:16:15] 🔍 Monitoring aktywny - cykl 1020
+[2025-11-20 17:16:15] ✅ Załadowano konfigurację: 1 aplikacji
+[2025-11-20 17:19:08] ✅ Configuration loaded: 1 applications
+[2025-11-20 17:19:23] 🔍 Monitoring aktywny - cykl 1080
+[2025-11-20 17:19:23] ✅ Załadowano konfigurację: 1 aplikacji
+[2025-11-20 17:19:38] ✅ Configuration loaded: 1 applications
+[2025-11-20 17:22:31] 🔍 Monitoring aktywny - cykl 1140
+[2025-11-20 17:22:31] ✅ Załadowano konfigurację: 1 aplikacji
+[2025-11-20 17:23:18] ✅ Configuration loaded: 1 applications
+[2025-11-20 17:23:45] 🔧 Service installed by administrator
+[2025-11-20 17:25:38] 🔍 Monitoring aktywny - cykl 1200
+[2025-11-20 17:25:38] ✅ Załadowano konfigurację: 1 aplikacji
+[2025-11-20 17:28:46] 🔍 Monitoring aktywny - cykl 1260
+[2025-11-20 17:28:46] ✅ Załadowano konfigurację: 1 aplikacji
+[2025-11-20 17:31:54] 🔍 Monitoring aktywny - cykl 1320
+[2025-11-20 17:31:54] ✅ Załadowano konfigurację: 1 aplikacji
+[2025-11-20 17:32:42] ✅ Configuration loaded: 1 applications
+[2025-11-20 17:33:01] ==================================================
+[2025-11-20 17:33:01] 🛡️  APPBLOKER SERVICE STARTED
+[2025-11-20 17:33:01] ==================================================
+[2025-11-20 17:33:01] 📁 Configuration directory: c:\Users\pagaf\Pulpit\Projekty\Programowanie\App_blockerv3
+[2025-11-20 17:33:01] 🔍 Number of blocked applications: 1
+[2025-11-20 17:33:01] 🚫 Blocked applications: ssss
+[2025-11-20 17:33:09] ⏹️  Service stopped by user
+[2025-11-20 17:33:17] ==================================================
+[2025-11-20 17:33:17] 🛡️  APPBLOKER SERVICE STARTED
+[2025-11-20 17:33:17] ==================================================
+[2025-11-20 17:33:17] 📁 Configuration directory: c:\Users\pagaf\Pulpit\Projekty\Programowanie\App_blockerv3
+[2025-11-20 17:33:17] 🔍 Number of blocked applications: 1
+[2025-11-20 17:33:17] 🚫 Blocked applications: ssss
+[2025-11-20 17:33:26] ⏹️  Service stopped by user
+[2025-11-20 17:33:31] ==================================================
+[2025-11-20 17:33:31] 🛡️  APPBLOKER SERVICE STARTED
+[2025-11-20 17:33:31] ==================================================
+[2025-11-20 17:33:31] 📁 Configuration directory: c:\Users\pagaf\Pulpit\Projekty\Programowanie\App_blockerv3
+[2025-11-20 17:33:31] 🔍 Number of blocked applications: 1
+[2025-11-20 17:33:31] 🚫 Blocked applications: ssss
+[2025-11-20 17:33:36] ⏹️  Service stopped by user
+[2025-11-20 17:33:38] ==================================================
+[2025-11-20 17:33:38] 🛡️  APPBLOKER SERVICE STARTED
+[2025-11-20 17:33:38] ==================================================
+[2025-11-20 17:33:38] 📁 Configuration directory: c:\Users\pagaf\Pulpit\Projekty\Programowanie\App_blockerv3
+[2025-11-20 17:33:38] 🔍 Number of blocked applications: 1
+[2025-11-20 17:33:38] 🚫 Blocked applications: ssss
+[2025-11-20 17:33:40] ⏹️  Service stopped by user
+[2025-11-20 17:35:01] 🔍 Monitoring aktywny - cykl 1380
+[2025-11-20 17:35:01] ✅ Załadowano konfigurację: 1 aplikacji
+[2025-11-20 17:38:09] 🔍 Monitoring aktywny - cykl 1440
+[2025-11-20 17:38:09] ✅ Załadowano konfigurację: 1 aplikacji
