@@ -55,7 +55,7 @@ A powerful Windows application blocker with advanced security features that allo
 ## 📥 Installation
 
 ### Method 1: Pre-compiled Executable (Recommended)
-1. Download `AppBlocker.exe` from the latest release
+1. Download `AppBlocker.exe` from the latest release. You can find this file in the dist folder.
 2. Right-click the executable and select "Run as administrator"
 3. Done!
 
