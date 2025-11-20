@@ -4,7 +4,7 @@ A powerful Windows application blocker with advanced security features that allo
 
 ## 📋 Table of Contents
 - [Features](#✨-features)
-- [System Requirements](#🖥️-system-requirements)
+- [System Requirements](#system-requirements)
 - [Installation](#installation)
 - [Quick Start](#quick-start)
 - [Usage Guide](#usage-guide)
@@ -42,7 +42,7 @@ A powerful Windows application blocker with advanced security features that allo
 - **Service Status Monitoring** - Real-time status checks
 - **Easy Installation/Removal** - Simple service management
 
-## 🖥️ System Requirements
+## System Requirements
 
 - **OS**: Windows 10/11 (64-bit)
 - **Architecture**: x64
