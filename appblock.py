@@ -92,22 +92,31 @@ class SecureAppBlocker:
                 "window_titles": ["discord"],
                 "company_names": ["discord inc."]
             },
-            "spotify": {
-                "process_names": ["spotify.exe", "spotifylauncher.exe"],
-                "window_titles": ["spotify"],
-                "company_names": ["spotify ltd"]
+            "epic_games": {
+                "process_names": ["epicgameslauncher.exe", "epicwebhelper.exe"],
+                "window_titles": ["epic games"],
+                "company_names": ["epic games inc."]
             },
-            "chrome": {
-                "process_names": ["chrome.exe"],
-                "window_titles": ["google chrome"],
-                "company_names": ["google llc"]
+            "battle_net": {
+                "process_names": ["battle.net.exe", "battle.net helper.exe"],
+                "window_titles": ["battle.net"],
+                "company_names": ["blizzard entertainment"]
             },
-            "firefox": {
-                "process_names": ["firefox.exe"],
-                "window_titles": ["mozilla firefox"],
-                "company_names": ["mozilla corporation"]
-            }
-        }
+            "minecraft": {
+                "process_names": ["javaw.exe", "minecraftlauncher.exe"],
+                "window_titles": ["minecraft"],
+                "file_path_keywords": ["minecraft", ".minecraft"]
+            },
+            "league_of_legends": {
+                "process_names": ["league of legends.exe", "riot client services.exe"],
+                "window_titles": ["league of legends", "riot client"],
+                "company_names": ["riot games"]
+            },
+            "valorant": {
+                "process_names": ["valorant.exe", "riot client services.exe"],
+                "window_titles": ["valorant"],
+                "company_names": ["riot games"]
+            }}
 
     # SECURITY METHODS
     def create_password_hash(self, password, salt=None):

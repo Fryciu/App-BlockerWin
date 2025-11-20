@@ -128,3 +128,4 @@
 [2025-11-20 17:35:01] ✅ Załadowano konfigurację: 1 aplikacji
 [2025-11-20 17:38:09] 🔍 Monitoring aktywny - cykl 1440
 [2025-11-20 17:38:09] ✅ Załadowano konfigurację: 1 aplikacji
+[2025-11-20 17:59:25] ✅ Configuration loaded: 1 applications
