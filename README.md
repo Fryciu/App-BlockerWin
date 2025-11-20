@@ -4,7 +4,7 @@ A powerful Windows application blocker with advanced security features that allo
 
 ## 📋 Table of Contents
 - [Features](#✨-features)
-- [System Requirements](#system-requirements)
+- [System Requirements](#🖥️-system-requirements)
 - [Installation](#installation)
 - [Quick Start](#quick-start)
 - [Usage Guide](#usage-guide)
