@@ -9,7 +9,6 @@ A powerful Windows application blocker with advanced security features that allo
 - [Quick Start](#quick-start)
 - [Usage Guide](#usage-guide)
 - [Security Features](#security-features)
-- [Troubleshooting](#troubleshooting)
 - [Security Bypass Reporting](#security-bypass-reporting)
 - [FAQ](#faq)
 - [Legal Disclaimer](#legal-disclaimer)
@@ -42,7 +41,7 @@ A powerful Windows application blocker with advanced security features that allo
 - **Service Status Monitoring** - Real-time status checks
 - **Easy Installation/Removal** - Simple service management
 
-## System Requirements
+## <h2 id="system-requirements"> 🖥️ System Requirements</h2>
 
 - **OS**: Windows 10/11 (64-bit)
 - **Architecture**: x64
@@ -52,7 +51,7 @@ A powerful Windows application blocker with advanced security features that allo
 - **Storage**: 10MB free space
 - **Memory**: 50MB RAM (minimal footprint)
 
-## 📥 Installation
+## <h2 id="installation">📥 Installation</h2>
 
 ### Method 1: Pre-compiled Executable (Recommended)
 1. Download `AppBlocker.exe` from the latest release. You can find this file in the dist folder.
@@ -82,7 +81,7 @@ pyinstaller --onefile --console --name "AppBlocker" --icon=shield.ico --add-data
 ```
 
 
-## Main Menu Options
+## Usage Guide
 
 1.  **🔐 Configure Security**
     * Set or change administrator password
@@ -122,7 +121,13 @@ pyinstaller --onefile --console --name "AppBlocker" --icon=shield.ico --add-data
     * Use with **extreme caution!**
     * Requires current password verification
 
-## ❓ FAQ
+
+## Security Bypass Reporting
+
+### If you bypass the security email me at
+
+
+##  <h2 id="faq">❓ FAQ</h2>
 
 ### Q: Does it work with all Windows applications?
 A: Most Windows applications are supported. Some system processes, anti-virus software, and specially protected applications might require additional configuration or may not be blockable due to system protections.
@@ -160,7 +165,7 @@ A: The monitoring service checks running processes every 3 seconds, providing ne
 A: Currently, exact process names are required for reliable blocking. The system matches against complete process names for security reasons.
 
 
-## ⚖️ Legal Disclaimer
+## <h2 id="legal-disclamer">⚖️ Legal Disclaimer </h2>
 
 ### Purposes
 This software is intended for legitimate purposes including:
@@ -194,3 +199,6 @@ The developers and contributors are not responsible for:
 ### 📄 License
 
 This project is licensed under the MIT License.
+
+## Contact
+You can contact me via e-mail: pagafryba@gmail.com
