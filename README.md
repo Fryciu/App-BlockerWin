@@ -3,7 +3,7 @@
 A powerful Windows application blocker with advanced security features that allows you to block specific applications from running on your system.
 
 ## 📋 Table of Contents
-- [Features](#features)
+- [Features](#✨-features)
 - [System Requirements](#system-requirements)
 - [Installation](#installation)
 - [Quick Start](#quick-start)
